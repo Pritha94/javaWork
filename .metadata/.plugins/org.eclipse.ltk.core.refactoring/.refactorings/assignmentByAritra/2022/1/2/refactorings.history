@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;assignmentByAritra.Stacker.java&apos; to &apos;Stockers.java&apos;&#x0D;&#x0A;- Original project: &apos;assignmentByAritra&apos;&#x0D;&#x0A;- Original element: &apos;assignmentByAritra.Stacker.java&apos;&#x0D;&#x0A;- Renamed element: &apos;assignmentByAritra.Stockers.java&apos;" description="Rename compilation unit &apos;Stacker.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;assignmentByAritra{Stacker.java" name="Stockers.java" references="false" stamp="1641233137499" version="1.0"/>
+</session>

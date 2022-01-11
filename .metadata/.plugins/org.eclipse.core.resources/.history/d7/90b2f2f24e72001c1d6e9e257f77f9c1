@@ -1,0 +1,31 @@
+package assignmentByAritra;
+import java.util.Scanner;
+
+public class Factorial{ 
+	@SuppressWarnings("resource")
+//	public static void main (String args[])  
+//	{  
+//		int fact = 1;
+//		Scanner sc=new Scanner(System.in);
+//		System.out.println("enter the number:");
+//		int number=sc.nextInt();
+//		for(int i= 1;i<=number;i++) {
+//			 fact= fact *i;
+//		}
+//		System.out.println("The Factorial of " +number+" is "+ fact);	
+//	}
+	
+	public static void main (String args[])  
+	{  
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the number:");
+		int number=sc.nextInt();
+		if(number % 2 ==0) {
+			System.out.println("The number "+ +number+"is eve");	
+		}else {
+			System.out.println("The number "+ +number+"is odd");
+		}
+			
+	}
+}
